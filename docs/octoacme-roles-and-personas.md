@@ -75,7 +75,31 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## Release Engineers
+
+### Role Summary
+Release Engineers coordinate the build, packaging, and deployment processes to ensure software is delivered safely and consistently to production environments.
+
+### Responsibilities
+- Maintain deployment pipelines and CI/CD workflows
+- Coordinate release cadences with product and engineering teams
+- Monitor environment health and rollback when issues arise
+- Enforce quality gates prior to release
+
+### Goals
+- Achieve zero-downtime, fully automated deployments
+- Reduce release-related regressions
+- Keep deployment cycles short and reliable
+
+### Typical Communication
+- Deployment status alerts and notifications
+- Release notes and changelog documents
+- Handoff discussions between QA, PM, and operations
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
+
 
